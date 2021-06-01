@@ -45,7 +45,7 @@ public class MainFunctions {
             employee.set(idNumber, lastName, givenName, middleName, tinNumber, sssNumber);
 
             /*
-            storing employees to an array.
+            storing employees to an arrayList.
              */
             employeeList.add(employee);
         }
